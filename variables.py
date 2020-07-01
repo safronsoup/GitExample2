@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+
+# this is an updated version of this progran sent to github.com/GitExample3/Version2
 # variables
 # begins with a character or single underscore
 # case sensitive
