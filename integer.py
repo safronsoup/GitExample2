@@ -29,3 +29,4 @@ print(division2, type(division2))
 # truncate everything after the decimal
 floatnum =3.78888
 print(int(floatnum), type(floatnum))
+# upload this to github
